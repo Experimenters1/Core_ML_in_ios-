@@ -10,6 +10,6 @@
 
 [Training Object Detection model using CreateML](https://github.com/tombaranowicz/ObjectDetectionWithCreateML) <br><br>
 
-[Core ML Models]([https://github.com/tombaranowicz/ObjectDetectionWithCreateML](https://developer.apple.com/machine-learning/models/)https://developer.apple.com/machine-learning/models/) <br><br>
+[Core ML Models](https://developer.apple.com/machine-learning/models/) <br><br>
 #
 
