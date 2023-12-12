@@ -20,3 +20,5 @@
 
 [CoreML-Models](https://github.com/john-rocky/CoreML-Models) <br><br>
 
+[Anime-fy Yourself](https://github.com/yonomitt/Anime-fy-Yourself) <br><br>
+
