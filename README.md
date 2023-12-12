@@ -22,3 +22,6 @@
 
 [Anime-fy Yourself](https://github.com/yonomitt/Anime-fy-Yourself) <br><br>
 
+[MLBoy_DaisukeMajima](https://github-com.translate.goog/john-rocky?tab=repositories&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US) <br><br>
+
+
